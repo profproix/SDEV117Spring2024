@@ -3,9 +3,79 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>StroyTime Books</title>
+    <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-    
+    <nav>
+        <h1>StoryTime Books & Collectables</h1>
+        <ul>
+            <li>Books</li>
+            <li>Movies</li>
+            <li>Music</li>
+            <li>Collectables</li>
+            <li>Textbooks</li>
+            <li>Games and Gifts</li>
+        </ul>
+    </nav>
+    <main>
+        <!-- category -->
+        <div id="category">
+            <h2>Shop by Category</h2>
+            <ul class="wrapper" id="category-list">
+                <li>Fantasy</li>
+                <li>Mystery</li>
+                <li>Romance</li>
+                <li>Biography</li>
+                <li>History</li>
+            </ul>
+
+        </div>
+        <!-- recommendations -->
+        <div id="recommendations">
+            <h2>Recommendations</h2>
+            <ul class="wrapper">
+                <li>
+                    <img alt="The Hobbit" src="http://books.google.com/books/content?id=pD6arNyKyi8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api">
+                </li>
+                <li>
+                    <img alt="Ancillary Justice" src="http://books.google.com/books/content?id=obAHf43THvQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api">
+                </li>
+                <li>
+                    <img alt="Bronze Age" src="http://books.google.com/books/content?id=Fxb9brYSPVYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api">
+                </li>
+                <li>
+                    <img alt="Grace Hopper Biography" src="http://books.google.com/books/content?id=dr34DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api">
+                </li>
+
+            </ul>
+
+        </div>
+        <!-- staff picks -->
+        <div class="wrapper">
+            <div class="card">
+                <h4>Reaching the Moon</h4>
+                <img alt="Reaching for the Moon" src="http://books.google.com/books/content?id=KbvbDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api">
+                <p> The inspiring autobiography of NASA mathematician Katherine Johnson, who helped launch Apollo 11. She worked on many of NASA’s biggest projects including the Apollo 11 mission that landed the first men on the moon. Katherine Johnson’s story was made famous in the bestselling book and Oscar-nominated film Hidden Figures. Now in Reaching for the Moon she tells her own story for the first time, in a lively autobiography that will inspire young readers everywhere.</p>
+            </div>
+            <aside class="ad" id="daily-deal">
+                <img alt="Sale image" src="https://images.unsplash.com/photo-1607082352121-fa243f3dde32?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+            </aside>
+        </div>
+        <!-- locations -->
+        <div class="wrapper">
+            <button>Find a location near you</button>
+        </div>
+    </main>
+    <footer>
+        <h5>Sign up for StoryTime Emails</h5>
+        <h6>Weekly coupons and deals!</h6>
+        <form>
+            <label for="email" >Email</label>
+            <input id="email" name="email" type="text">
+            <input type="submit">
+        </form>
+    </footer>
 </body>
 </html>
