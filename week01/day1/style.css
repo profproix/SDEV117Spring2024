@@ -1,0 +1,24 @@
+/* How do I access a tag */
+img{
+    width:200px;
+    height: 200px;
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: row-reverse;
+    border: solid;
+}
+
+/* How do we access a class? */
+.card{
+    max-width: 500px;
+    border: solid;
+    margin: 10px;
+    padding: 10px;
+}
+
+/* How do we access an Id */
+#rose_card{
+    background-color: aqua;
+}
