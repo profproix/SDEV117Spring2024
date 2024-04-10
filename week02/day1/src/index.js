@@ -9,25 +9,35 @@
 //Datatypes *******************************
 //Primitive 
 // String : Text
+
+
   
 // Boolean : True and False
+
   //Comparison operators
 
 // Number: 1 2 3 4
-  //NaN
-  // Bigint.
+
+//Nan
+
+// Bigint.
+
   
 // Undefined.
+
   // not defined and undefined are not the same
 
 // Null.
   // given a value of nothing
 
+
 // Symbol.
 // represents unique values and are used as identifiers or keys to objects.
 
+
 //Non-Primitive *******************
 // Object.
+// Key:Value
 
 // Arrays 
 
