@@ -3,12 +3,14 @@
 ## Topic
 
 - Review JS
+- Access the DOM
 
 ## Objectives: Students will be able to
 
 - Create a function
 - Call the function and pass it an argument
-- Print a value to the console
+- Access the Dom with a querySelector
+- Change text content on the DOM
 
 ## Needed Info
 
@@ -44,3 +46,10 @@ document.querySelector('img')
 3. Call placeOrder and pass it the variable userResponse.
 
 4. Run the code by opening the HTML doc in the browser.
+
+#### Stretch goals
+
+5. Change the style color attribute on the order to something else.
+6. Add a switch statement with a number of different orders.
+7. Prompt the user for a drink order.
+8. Calculate the users total order with drink and display it on the browser.
