@@ -1,0 +1,23 @@
+.ball{
+    border-radius: 50%;
+  width: 500px;
+  height: 500px;
+  /* https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/radial-gradient */
+  background: radial-gradient(circle at left, grey, black);
+    display: flex;
+    justify-content: center;
+}
+.answerSection{
+  background-color: white;
+  display: flex;
+  border-radius: 50%;
+  width: 40%;
+  height: 40%;
+  align-self: center;
+}
+.answerSection h2{
+ align-self: center;
+ justify-self: center;
+ text-align: center;
+ width: 100%;
+}
