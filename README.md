@@ -16,9 +16,13 @@
 
 - Functions
 
-### [Week 2 day 1](/week03/day1)
+### [Week 3 day 1](/week03/day1)
 
 - The DOM
+
+### [Week 3 day 2](/week03/day2)
+
+- The DOM pt2 selectors
 
 ## How to use Git
 
