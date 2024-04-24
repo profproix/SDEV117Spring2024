@@ -24,6 +24,14 @@
 
 - The DOM pt2 selectors
 
+### [Week 4 day 2](/week04/day1)
+
+- Loops
+
+### [Week 4 day 2](/week04/day2)
+
+- Loops and updating the DOM
+
 ## How to use Git
 
 [Using Git source control in VS Code](https://code.visualstudio.com/docs/sourcecontrol/overview)
