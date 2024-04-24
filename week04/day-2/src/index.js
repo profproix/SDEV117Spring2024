@@ -1,5 +1,7 @@
 //Function Review and Scope
-//This variable is in global scope
+// Write a variable in global scope
+// Write a variable in function scope
+// Write a variable in block scope
 
 //Function returns a discount price
 
