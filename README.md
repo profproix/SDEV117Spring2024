@@ -1,36 +1,40 @@
 # SDEV117Spring2024
 
-### [Week 1 day 1](/week01/day1)
+### [Week 1 day 1](/week01/day-1)
 
 - Intro
 
-### [Week 1 day 2](/week01/day2)
+### [Week 1 day 2](/week01/day-2)
 
 - HTML Review
 
-### [Week 2 day 1](/week02/day1)
+### [Week 2 day 1](/week02/day-1)
 
 - Data types
 
-### [Week 2 day 1](/week02/day2)
+### [Week 2 day 1](/week02/day-2)
 
 - Functions
 
-### [Week 3 day 1](/week03/day1)
+### [Week 3 day 1](/week03/day-1)
 
 - The DOM
 
-### [Week 3 day 2](/week03/day2)
+### [Week 3 day 2](/week03/day-2)
 
 - The DOM pt2 selectors
 
-### [Week 4 day 2](/week04/day1)
+### [Week 4 day 2](/week04/day-1)
 
 - Loops
 
-### [Week 4 day 2](/week04/day2)
+### [Week 4 day 2](/week04/day-2)
 
 - Loops and updating the DOM
+
+### [Week 5 day 1](/week05/day-1)
+
+- Review
 
 ## How to use Git
 
