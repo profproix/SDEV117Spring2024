@@ -34,7 +34,11 @@
 
 ### [Week 5 day 1](/week05/day1)
 
-- Loops and updating the DOM
+- Review
+
+### [Week 5 day 2](/week05/day2)
+
+- Loops Review
 
 ## How to use Git
 
